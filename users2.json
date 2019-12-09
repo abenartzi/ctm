@@ -1,0 +1,41 @@
+﻿{
+  "employees": {
+    "employee": [
+      {
+        "id": "1",
+        "firstName": "Mr. Y.",
+        "lastName": "Ben-Artzi",
+        "position": "President & CEO",
+        "about": "Mr. Y. Ben-Artzi, Founder of Cotrimex and our long standing President and CEO, has been helping shape the Israeli Import and Export industries for over 50 years now. With broad experience in international trade, logistics and sales, he has been the face and driving force behind the company since its establishment."
+      },
+      {
+        "id": "2",
+        "firstName": "Mr. Isao",
+        "lastName": "Shimamura",
+        "position": "VP & COO",
+        "about": "Mr. Shimamura, VP and COO of Cotrimex Ltd. and Manager of Cotrimex Japan office, has been with Cotrimex Ltd since 2002. Mr. Shimamura extends to the company his vast knowledge in trade and international relations through over 3 decades of experience and cooperations with Japanese and international conglomerates and major trading houses."
+      },
+      {
+        "id": "3",
+        "firstName": "Mr. Asaf",
+        "lastName": "Ben-Artzi",
+        "position": "General Manager",
+        "about": "Mr. Asaf Ben-Artzi, General manager of Cotrimex Ltd., oversees operations of Cotrimex Ltd. Israel, and spearheads the cooperation and relations with local customers. He is a veteran of over 20 years in Trade business and has been with Cotrimex since 1999."
+      },
+      {
+        "id": "4",
+        "firstName": "Mr. Yoav",
+        "lastName": "Ben-Artzi",
+        "position": "CMO",
+        "about": "Mr. Yoav Ben-Artzi CMO. Has been with Cotrimex for over 10 years now and acts as the chief marketing officer and new product development manager- in charge of all marketing and new product development and sales in the company, with broad expertise in commerce and trade."
+      },
+      {
+        "id": "5",
+        "firstName": "Mrs. Tippi",
+        "lastName": "(Weston) Baruch",
+        "position": "Executive secretary and logistics coordinator",
+        "about": "Mrs. Tippi Baruch- Executive secretary and Logistics coordinator, has been with the firm for over 10 years now and provides vital assistance to our customer base in a logistical and sales capacity. Her years of experience in customer relations, documentation and logistical expertise have been pivotal to our support for customer satisfaction and streamlining our cooperation with major suppliers and partners"
+      }
+    ]
+  }
+}
